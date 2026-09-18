@@ -1,0 +1,13 @@
+# 3,451 archivos y 38.8 MB de los 40 que pesa esta skill. Se restauran con
+# `npm install` dentro de `scripts/`, que es para lo que estan versionados
+# `package.json` y `package-lock.json`.
+scripts/node_modules/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+
+# Salidas de prueba: la biblioteca es donde vive lo terminado.
+scripts/_tmp/

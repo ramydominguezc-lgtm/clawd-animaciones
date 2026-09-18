@@ -1,0 +1,17 @@
+{
+  "name": "clawd-animaciones-scripts",
+  "version": "1.0.0",
+  "description": "Dependencia de capturar_gsap.js",
+  "main": "capturar_gsap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": "true",
+  "dependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}
