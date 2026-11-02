@@ -185,7 +185,7 @@ para cada destino está en `clawd-biblioteca`. Dos datos del motor:
 
 1. **Nunca sobre fondo naranja.** Clawd es naranja y desaparece.
 2. **No mezclar dibujos distintos** en una pieza: canónico, el de los paseos (brazos
-   de 20U) y `clawd-base` de la skill de marca.
+   de 20U) y los stickers quietos de la skill de marca.
 3. **No va en piezas fijas.** En un flyer o PDF se congela: ahí va un Clawd
    quieto de `anthro-pic-brand`.
 
